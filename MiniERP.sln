@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniERP", "MiniERP.csproj", "{E82A611D-0C97-4F09-BA20-5B0BFAB6BA7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E82A611D-0C97-4F09-BA20-5B0BFAB6BA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82A611D-0C97-4F09-BA20-5B0BFAB6BA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82A611D-0C97-4F09-BA20-5B0BFAB6BA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82A611D-0C97-4F09-BA20-5B0BFAB6BA7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D15278AD-D770-4F37-B08B-1CA66DAF8173}
+	EndGlobalSection
+EndGlobal
